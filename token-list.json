@@ -1,6 +1,6 @@
 {
   "name": "OCTO-Fi",
-  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "logoURI": "https://github.com/octo-fi/octo-fi/blob/main/OCTO-logo.png",
   "keywords": [
       "octo",
       "octo",
@@ -15,7 +15,7 @@
       "name": "OCTO-FI",
       "symbol": "octo",
       "decimals": 18,
-      "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+      "logoURI": "https://github.com/octo-fi/octo-fi/blob/main/OCTO-logo.png"
       }
     ],
     "version": {
